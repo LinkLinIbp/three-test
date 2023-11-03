@@ -1,0 +1,5 @@
+{
+    "git-graph.repository.commits.mute.commitsThatAreNotAncestorsOfHead": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
